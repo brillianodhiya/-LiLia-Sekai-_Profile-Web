@@ -1,9 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T15:15:21.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" version="21.1.1" etag="HbQYjOb9vrOs2a3fwYQQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T17:56:06.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="5b2Qr2giogp5OdyTYFMZ" version="21.1.1" type="github">
   <diagram name="Page-1" id="RMZ9u4SgVo0JPBPXs6V4">
-    <mxGraphModel>
+    <mxGraphModel dx="2489" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8QVYFe3g695oh3EqEHn4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-1" target="8QVYFe3g695oh3EqEHn4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-42" value="Level 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-38">
+          <mxGeometry x="-0.529" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-1" target="8QVYFe3g695oh3EqEHn4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-1" target="8QVYFe3g695oh3EqEHn4-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="150" />
+              <mxPoint x="460" y="150" />
+              <mxPoint x="460" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-43" value="Level 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-40">
+          <mxGeometry x="-0.5556" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-1" target="8QVYFe3g695oh3EqEHn4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-44" value="Level 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-41">
+          <mxGeometry x="-0.5161" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-1" value="Pengeluaran Klinik Maharani" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-34" target="8QVYFe3g695oh3EqEHn4-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-51" value="Level 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-46">
+          <mxGeometry x="0.3473" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;Pengeluaran untuk gaji dan honorarium&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-35" target="8QVYFe3g695oh3EqEHn4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-58" value="Level 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-53">
+          <mxGeometry x="0.3962" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;Pengeluaran untuk pembelian obat&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-36" target="8QVYFe3g695oh3EqEHn4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-61" value="Level 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QVYFe3g695oh3EqEHn4-60">
+          <mxGeometry x="0.55" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;Pengeluaran Biaya Operasional&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-37" target="8QVYFe3g695oh3EqEHn4-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;Pengeluaran untuk perluasan &amp;amp; penambahan fasilitas&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-45" target="8QVYFe3g695oh3EqEHn4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-45" target="8QVYFe3g695oh3EqEHn4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-45" value="Proses verifikasi &amp;amp; pengeluaran gaji" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-47" value="Penerimaan Gaji oleh staff, perawat dan dokter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-49" value="Laporan Penggajian" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-52" target="8QVYFe3g695oh3EqEHn4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-52" target="8QVYFe3g695oh3EqEHn4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-52" value="Pembelian obat" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-54" value="Penerimaan stok Obat untuk pasien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-56" value="Data Obat yang &lt;br&gt;diterima" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-59" target="8QVYFe3g695oh3EqEHn4-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-59" target="8QVYFe3g695oh3EqEHn4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-59" value="Pembayaran biaya operasional" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-62" value="operasional listrik, air, sewa gedung, peralatan medis, dan fasilitas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-64" value="Catatan Pembayaran" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QVYFe3g695oh3EqEHn4-66" target="8QVYFe3g695oh3EqEHn4-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-66" value="Penambahan / Perluasan fasilitas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVYFe3g695oh3EqEHn4-68" value="Fasilitas yang dapat digunakan untuk klinik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
